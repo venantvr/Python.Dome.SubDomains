@@ -1,4 +1,10 @@
 futures
-argparse
-dnspython
-requests
+argparse~=1.4.0
+dnspython~=2.2.1
+requests~=2.28.1
+
+win_unicode_console
+colorama
+
+pyfiglet~=0.8.post1
+Jinja2~=3.1.2
